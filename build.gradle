@@ -1,11 +1,11 @@
-group 'edu.wpi.cs3733d18.teamX' // replace with your package name
+group 'edu.wpi.cs3733d18.team2' // replace with your package name
 version '0.1'
 
 apply plugin: 'java'
 apply plugin: 'idea'
 apply plugin: 'application'
 
-mainClassName = "edu.wpi.cs3733d18.teamX.Main" // replace with your main class
+mainClassName = "Main" // replace with your main class
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
